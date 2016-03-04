@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Lustria);
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri:300);
+
+body {
+	background-color: #000;
+	text-align: center;
+}
+
+header {
+
+	background-color: #FFED74;
+	border: 1px solid;
+	padding: 20px;
+
+}
+
+nav {
+
+	background-color: #E8C66A;
+	border: 1px solid;
+	padding: 20px;
+
+}
+
+footer {
+
+	background-color: #FF957E;
+	border: 1px solid;
+	padding: 20px;
+
+}
+
+div {
+
+	background-color: #FFE2B8;
+	border: 1px solid;
+	padding: 20px;
+
+}
+
+section {
+
+	background-color: #FFE2B8;
+	border: 1px solid;
+	padding: 20px;
+
+}
+
+h1 {
+	font-family: 'Lustria', serif;
+	color: #fff;
+	text-align: center;
+}
+
+p {
+	font-family: 'Hind Siliguri', sans-serif;
+	color: #fff;
+	font-weight: 300;
+}
+
+
+ul {
+	color: #fff;
+	list-style-type: none;
+}
+
+li {
+
+}
+
+img {
+
+}
+
+#slogan {
+	font-style: italic;
+}
